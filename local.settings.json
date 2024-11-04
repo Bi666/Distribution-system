@@ -1,0 +1,9 @@
+{
+  "IsEncrypted": false,
+  "Values": {
+    "AzureWebJobsStorage": "UseDevelopmentStorage=true",
+    "FUNCTIONS_WORKER_RUNTIME": "java",
+    "AzureSQLConnectionString": "Server=tcp:distributed-csw2.database.windows.net,1433;Initial Catalog=SensorData;Persist Security Info=False;User ID=mn21bw;Password=Wbl20031002!;MultipleActiveResultSets=False;Encrypt=True;TrustServerCertificate=False;Connection Timeout=30;",
+    "JDBC_SQLConnectionString": "jdbc:sqlserver://distributed-csw2.database.windows.net:1433;database=SensorData;user=mn21bw@distributed-csw2;password=Wbl20031002!;encrypt=true;trustServerCertificate=false;hostNameInCertificate=*.database.windows.net;loginTimeout=30;"
+  }
+}
